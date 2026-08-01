@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿.venv/
 venv/
 __pycache__/
@@ -5,3 +6,11 @@ __pycache__/
 .env
 *.log
 .pytest_cache/
+=======
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+>>>>>>> e2395e59460c6cab5fa4df65b17d06f8f363395b
